@@ -10,24 +10,36 @@
 	<string>DemoClass</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>48AA0EC9600E65CDD5D1CED816A79C5923EAD8F9</key>
+		<string>https://github.com/nguyendinhgiap/Exercise1.git</string>
 		<key>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</key>
 		<string>http://jira:7990/scm/obs/source.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Day06/DemoClass/DemoClass.xcodeproj</string>
+	<string>DrawZigZAc_Car/DemoClass.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>48AA0EC9600E65CDD5D1CED816A79C5923EAD8F9</key>
+		<string>../../..</string>
 		<key>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</key>
-		<string>../../../..</string>
+		<string>../../../../iOS8Swift</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://jira:7990/scm/obs/source.git</string>
+	<string>https://github.com/nguyendinhgiap/Exercise1.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>569EFBB10AD9E9525B1B4E1A257E7177D0813F21</string>
+	<string>48AA0EC9600E65CDD5D1CED816A79C5923EAD8F9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48AA0EC9600E65CDD5D1CED816A79C5923EAD8F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>exercise3</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

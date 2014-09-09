@@ -28,6 +28,7 @@
 		EB550CF419BF53A4007794F2 /* DrawZigZag.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB550CF319BF53A4007794F2 /* DrawZigZag.swift */; };
 		EB550CF619BF5BE5007794F2 /* ReadFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB550CF519BF5BE5007794F2 /* ReadFile.swift */; };
 		EB550CF819BF5C4C007794F2 /* taytien.txt in Resources */ = {isa = PBXBuildFile; fileRef = EB550CF719BF5C4C007794F2 /* taytien.txt */; };
+		EB550D2519BF6331007794F2 /* giaiptbac2.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB550D2419BF6331007794F2 /* giaiptbac2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		EB550CF319BF53A4007794F2 /* DrawZigZag.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawZigZag.swift; sourceTree = "<group>"; };
 		EB550CF519BF5BE5007794F2 /* ReadFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadFile.swift; sourceTree = "<group>"; };
 		EB550CF719BF5C4C007794F2 /* taytien.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = taytien.txt; sourceTree = "<group>"; };
+		EB550D2419BF6331007794F2 /* giaiptbac2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = giaiptbac2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				E206527B19B9BEFD0017D0A3 /* ProtocolDelegateDemo.swift */,
 				E2CE123219A762F3008E72E8 /* Images.xcassets */,
 				E2CE122919A762F3008E72E8 /* Supporting Files */,
+				EB550D2419BF6331007794F2 /* giaiptbac2.swift */,
 			);
 			path = DemoClass;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				E206527C19B9BEFD0017D0A3 /* ProtocolDelegateDemo.swift in Sources */,
 				EB550CF419BF53A4007794F2 /* DrawZigZag.swift in Sources */,
 				E2CE124A19A7646C008E72E8 /* DemoShape.swift in Sources */,
+				EB550D2519BF6331007794F2 /* giaiptbac2.swift in Sources */,
 				E29A182C19B09D7D00FD78A7 /* OptionalUnwrap.swift in Sources */,
 				E2CE125619A77D62008E72E8 /* Square.swift in Sources */,
 				E2CE125F19A789C6008E72E8 /* Composite.swift in Sources */,
